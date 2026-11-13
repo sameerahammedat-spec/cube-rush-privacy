@@ -13,8 +13,6 @@ Your privacy is important to us. This Privacy Policy explains how Cube Rush ("th
 
 ## 2. Information We Collect
 
-**[Verify this section against your actual app before publishing.]**
-
 Cube Rush does not require users to create an account or provide personal information to play the game.
 
 If the app collects information through advertising, analytics, crash reporting, or other third-party services, those services may collect certain information as described in their respective privacy policies.
